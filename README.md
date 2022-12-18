@@ -1,4 +1,4 @@
-# TypeScript Courses | Udemy | Youtube
+# JavaScript Courses | Udemy | Youtube
 
 > Requirements:
 [Node](https://nodejs.org/en/) Version 16+ |
@@ -8,23 +8,21 @@
 
 The repository contains some coding exercises and small projects used for practice.
 
-- [Course 01:](https://github.com/VitorSoer/typescript/tree/main/src/course-01)
-TypeScript - Beginner To Advanced | Matheus Battisti
+- [Course 01:](https://github.com/VitorSoer/javascript/tree/main/course-01)
+JavaScript: The Advanced Concepts | Andrei Neagoie
 
-- [Course 02:](https://github.com/VitorSoer/typescript/tree/main/src/course-02)
-Mastering TypeScript | Colt Steele
 
 ## Instructions:
 > Use the command line to perform the steps.
 
 1 - Clone the repository:
 ```console
-git clone https://github.com/VitorSoer/typescript
+git clone https://github.com/VitorSoer/javascript
 ```
 
 2 - Access the project directory using the command line:
 ```console
-cd typescript
+cd javascript
 ```
 
 3 - Install dependencies with npm:
